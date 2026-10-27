@@ -1,0 +1,6 @@
+# Simulation executables
+fifo_sim
+fifo_sv_sim
+
+# Waveform dumps
+*.vcd
